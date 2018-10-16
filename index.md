@@ -1,5 +1,9 @@
 # K12在线教育行业研究报告
 
+<h3>
+<a href="https://github.com/wanglei198701/industry-report/blob/master/%E6%95%99%E8%82%B2K12%E5%9C%A8%E7%BA%BF%E6%95%99%E8%82%B2%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.docx?raw=true" target="_blank" class="color">word下载链接</a>
+</h3>
+
 ## 核心观点
 1. K12教育行业是一个[CR4](#1)足5%的千亿刚需市场，K12在线教育有望提升市场集中度。但长期来看，K12在线教育行业的市场格局将呈多头林立状，天然屏蔽“有你没我”的互联网残酷战争。
 
